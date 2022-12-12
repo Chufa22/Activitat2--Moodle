@@ -1,4 +1,4 @@
-# Activitat 1
+# Activitat 2
 SMX-B MP08
 
 ####  Alumnes
